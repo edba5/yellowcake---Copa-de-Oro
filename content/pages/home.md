@@ -1,30 +1,50 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Restaurante La Nueva Copa de Oro
+featuredImage: 'https://ucarecdn.com/e12317d7-4992-44de-8b7c-8107e3b2cc09/'
+subtitle: '## Tampico - Sea Food'
+accordion: []
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Tampico - Sea Food
+  title: Restaurante La Nueva Copa de Oro
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+## Restaurante especializado en Mariscos, fundado hace 30 años para deleitar el paladar de los Tampiqueños.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
 
-## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+
+Festejemos este día de las Madres con una comida en familia. 
+
+# La especialidad para este Domingo
+
+* **Charola de mariscos con 4 platillos principales**
+  1. Camarón mariposa
+  2. Calamares a la romana
+  3. Filete empanizado
+  4. Salpicon de pescado
+
+
+* Va acompañado con: salsas, ensalada, arroz y totopos.
+* Charola **Grande** para 10 a 12 personas.
+* Charola **Mediana** para 5 a 6 personas.
+
+
+
+* ## Opciones para complementar:
+* Media docena de: 
+  * Jaibas rellenas
+  * Empanadas de salpicón
+  * Empanadas de jaibas
+* Litros de:
+  * Salpicón de pescado
+  * Arroz
+  * Sopa de marisco
+  * Torta mixta grande
+
+
+
+Hacemos entregas a domicilio y cerramos pedido mañana sábado a las 12 pm.Get started
